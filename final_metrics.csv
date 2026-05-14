@@ -1,0 +1,2 @@
+model,precision,recall,f1,balanced_accuracy,mcc,roc_auc,pr_auc,brier_score
+HistGradientBoosting,0.4706,0.5455,0.5053,0.7625,0.4889,0.9615,0.551,0.0252
